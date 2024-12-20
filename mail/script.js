@@ -17,7 +17,7 @@ let listaInvitati = [
     'Simone',
     'Elena'
 ]
-// Chideo il nome dell'utente
+// Chiedo il nome dell'utente
 let nomeDaCercare = prompt("Inserisci il tuo nome: ")
 // Imposto una variabile per vedere se il nome è stato trovato
 let trovato = false;
